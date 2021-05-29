@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+}
+body h1 {
+  color: black;
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 0, 5em;
+  text-align: center;
+  margin-top: 30px;
+}
+body hr {
+  color: red;
+  align-self: center;
+  width: 100px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+body p {
+  text-align: center;
+  width: 200px;
+  font-family: "Oswald", sans-serif;
+  margin: 0 auto;
+  letter-spacing: 1px;
+}
+
+/*# sourceMappingURL=style.css.map */
