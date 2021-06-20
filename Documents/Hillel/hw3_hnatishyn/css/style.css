@@ -1,0 +1,27 @@
+body {
+  max-width: 1280px;
+}
+body h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Lato", sans-serif;
+  color: #4682b4;
+  font-weight: 700;
+}
+body p {
+  color: #09508b;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  margin-bottom: 50px;
+}
+body .calc #elem {
+  background-color: #8cc7f8;
+  display: flex;
+  color: aliceblue;
+  padding: 10px 15px;
+  font-family: "Lato", sans-serif;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+/*# sourceMappingURL=style.css.map */

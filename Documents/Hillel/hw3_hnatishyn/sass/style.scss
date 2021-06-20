@@ -1,0 +1,47 @@
+body{
+    max-width: 1280px;
+
+    h1{
+        text-align: center;
+        text-transform: uppercase;
+        font-family: 'Lato', sans-serif;
+        color: #4682b4;
+        font-weight: 700;
+    }
+
+    p{
+        color: #09508b;
+        font-family: 'Lato', sans-serif;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    // button{
+    //     background-color: #8cc7f8;
+    //     display: flex;
+
+    //     a{
+    //         padding: 10px 15px;
+    //         font-family: 'Lato', sans-serif;
+    //         color: aliceblue;
+    //         padding: 10px 15px 10px 15px;
+    //         text-decoration: none;
+    //         text-transform: uppercase;
+
+    //     }
+    // }
+
+    .calc{
+    
+        #elem{
+            background-color: #8cc7f8;
+            display: flex;
+            color: aliceblue;
+            padding: 10px 15px;
+            font-family: 'Lato', sans-serif;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+    }
+    
+}
